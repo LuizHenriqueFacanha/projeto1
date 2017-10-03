@@ -1,2 +1,4 @@
 java 4 linux
+alterado windows 32 bits sala reuniao
+
 
